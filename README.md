@@ -1,10 +1,11 @@
+
 <!-- BANNER PRINCIPAL -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=BEJJ%20Devs&fontSize=64&fontAlignY=36&animation=twinkling&color=gradient&customColorList=12,14,18,20,24&fontColor=ffffff" />
 
 <!-- TEXTO ANIMADO -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=820&lines=Aprendendo+programa%C3%A7%C3%A3o+na+pr%C3%A1tica;Criando+projetos+reais+em+grupo;Evoluindo+juntos+todos+os+dias"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=820&lines=Aprendendo+programação+na+prática;Criando+projetos+reais+em+grupo;Evoluindo+juntos+todos+os+dias"
     alt="Texto animado"
   />
 </div>
@@ -21,7 +22,6 @@
 </div>
 
 ---
-
 
 ## 👥 Quem somos
 
@@ -79,4 +79,3 @@ bejj-devs/
 ├── desafios/
 ├── docs/
 └── README.md
-

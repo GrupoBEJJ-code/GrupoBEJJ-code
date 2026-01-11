@@ -22,6 +22,7 @@
 
 ---
 
+
 ## 👥 Quem somos
 
 O **BEJJ Devs** é um grupo de amigos iniciantes na programação que decidiu aprender **do jeito certo**:  
